@@ -5,3 +5,6 @@ Päiväkirja
 
 ### 22.11
 -rauta lankamalli valmiiksi
+
+### 29.11
+Research
