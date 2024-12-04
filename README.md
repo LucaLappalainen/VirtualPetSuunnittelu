@@ -11,4 +11,4 @@ Research
 
 ### 4.12
 dokumentaation katsominen   
-mahdollinen aloittaminen
+https://www.youtube.com/watch?v=GrS_nz2-48g   
