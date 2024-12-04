@@ -8,3 +8,7 @@ Päiväkirja
 
 ### 29.11
 Research
+
+### 4.12
+dokumentaation katsominen   
+mahdollinen aloittaminen
