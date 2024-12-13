@@ -12,3 +12,9 @@ Research
 ### 4.12
 dokumentaation katsominen   
 https://www.youtube.com/watch?v=GrS_nz2-48g   
+
+### 11.12
+Unity asennus
+
+### 13.12
+https://www.youtube.com/watch?v=QplEeEAJxck   
