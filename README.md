@@ -44,3 +44,12 @@ Unity projekti oma demo valmiiksi
 
 ### 9.1.
 Unity webGL avulla react projektiin
+
+### 15.1.   
+Unitylla tehty demopeli toimii nyt nextJS kanssa localhostissa   
+Suunnitelma tässä kohtaa:   
+-> Unity peli valmiiksi   
+-> tunge se nextJS appiin   
+-> tee frontti puolen jutut done   
+-> ???
+-> profit   
