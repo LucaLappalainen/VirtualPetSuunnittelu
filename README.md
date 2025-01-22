@@ -51,5 +51,11 @@ Suunnitelma tässä kohtaa:
 -> Unity peli valmiiksi   
 -> tunge se nextJS appiin   
 -> tee frontti puolen jutut done   
--> ???
+-> ???   
 -> profit   
+
+### 16.1   
+Yritetty saada verceliä toimimaan   
+
+### 22.1
+Tavoite saada vercel kuntoon ja aloittaa pelin teko   
