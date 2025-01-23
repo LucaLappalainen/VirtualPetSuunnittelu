@@ -19,7 +19,7 @@ Unity asennus
 ### 13.12.
 https://www.youtube.com/watch?v=QplEeEAJxck   
 
-### 18.13. 
+### 18.12. 
 
 unity oppimista videoilla:   
 https://www.youtube.com/watch?v=wkKsl1Mfp5M    
