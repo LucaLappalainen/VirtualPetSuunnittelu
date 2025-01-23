@@ -58,4 +58,10 @@ Suunnitelma tässä kohtaa:
 Yritetty saada verceliä toimimaan   
 
 ### 22.1
-Tavoite saada vercel kuntoon ja aloittaa pelin teko   
+Tavoite saada vercel kuntoon ja aloittaa pelin teko.   
+Vercel Toimii.   
+
+### 23.1
+Unitya.   
+Collectibles.   
+
