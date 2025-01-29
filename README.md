@@ -65,3 +65,10 @@ Vercel Toimii.
 Unitya.   
 Collectibles.   
 
+### 29.1.
+Unitya.
+-> fps limit   
+-> collectiblet eteenpäin:   
+      decay   
+      pelaaja kuolee jos = 0   
+      collectiblet antaa x määrän   
