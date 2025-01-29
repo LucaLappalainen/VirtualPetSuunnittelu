@@ -18,5 +18,5 @@ Mahdolliset opetusvideot:
 https://www.youtube.com/watch?v=QplEeEAJxck   
 
 
-collectibles:   
-https://www.youtube.com/watch?v=5GWRPwuWtsQ   
+FPS limit:   
+https://www.youtube.com/watch?v=P5PQV0SW0pI   
