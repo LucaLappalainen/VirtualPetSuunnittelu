@@ -54,14 +54,14 @@ Suunnitelma tässä kohtaa:
 -> ???   
 -> profit   
 
-### 16.1   
+### 16.1.   
 Yritetty saada verceliä toimimaan   
 
-### 22.1
+### 22.1.
 Tavoite saada vercel kuntoon ja aloittaa pelin teko.   
 Vercel Toimii.   
 
-### 23.1
+### 23.1.
 Unitya.   
 Collectibles.   
 
@@ -72,3 +72,8 @@ Unitya.
      -decay   
      -pelaaja kuolee jos = 0   
      -collectiblet antaa x määrän   
+
+### 30.1.
+Unitya.
+Collectible limit.   
+uudistettu ja parannettu movement.
