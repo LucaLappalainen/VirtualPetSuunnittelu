@@ -5,6 +5,7 @@ Pelinteko opetusvideot:
 https://www.youtube.com/watch?v=on9nwbZngyw   
    Liikkuminen:   
 https://www.youtube.com/watch?v=dwcT-Dch0bA   
+https://www.youtube.com/watch?v=Ucmn0mfmNfc   
    collectibles:      
 https://www.youtube.com/watch?v=5GWRPwuWtsQ      
 
