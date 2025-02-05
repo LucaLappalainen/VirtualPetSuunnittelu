@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=dwcT-Dch0bA
 https://www.youtube.com/watch?v=Ucmn0mfmNfc   
    collectibles:      
 https://www.youtube.com/watch?v=5GWRPwuWtsQ      
+   Skenet:
+https://www.youtube.com/watch?v=E25JWfeCFPA   
 
 
 Kuinka saada unity reactiin / verceliin:   
