@@ -73,7 +73,11 @@ Unitya.
      -pelaaja kuolee jos = 0   
      -collectiblet antaa x määrän   
 
-### 30.1.
+### 30.1.   
 Unitya.
 Collectible limit.   
 uudistettu ja parannettu movement.
+
+### 5.2.   
+Unitya.   
+Skenet aloitus, pääsee skenestä toiseen mutta muuttujat resettaa.
