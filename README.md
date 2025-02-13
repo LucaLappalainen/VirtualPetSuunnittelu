@@ -81,3 +81,13 @@ uudistettu ja parannettu movement.
 ### 5.2.   
 Unitya.   
 Skenet aloitus, pääsee skenestä toiseen mutta muuttujat resettaa.
+
+### 12.2.   
+unitya. skene fixausta.   
+
+### 13.2.   
+Unitya.   
+Skenet toimii ja ruoka on nyt global muuttuja. Korjattavaa:   
+Ruoka ei spawnaa aina kun loadaa skenen   
+korjaa "starttimoottori" ongelma    
+
