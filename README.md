@@ -91,3 +91,9 @@ Skenet toimii ja ruoka on nyt global muuttuja. Korjattavaa:
 Ruoka ei spawnaa aina kun loadaa skenen   
 korjaa "starttimoottori" ongelma    
 
+### 19.2.
+Unityä.   
+Main menu ja game over skene.   
+starttimoottori kolikko saatu korjattua.   
+Fonttien fixausta.   
+Talon layout suunnittelu.   
