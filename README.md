@@ -97,3 +97,9 @@ Main menu ja game over skene.
 starttimoottori kolikko saatu korjattua.   
 Fonttien fixausta.   
 Talon layout suunnittelu.   
+
+### 5.3.
+Unitya.   
+sapuskat tulevat skeneen ehdoilla, ei ainoastaan kun skene ladataan.   
+jos syönyt liikaa niin liikut hitaammin.   
+muutamat pienet fixit ja QoL jutut (muuttujien nimiä muuteltu paremmiksi).   
