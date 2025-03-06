@@ -103,3 +103,8 @@ Unitya.
 sapuskat tulevat skeneen ehdoilla, ei ainoastaan kun skene ladataan.   
 jos syönyt liikaa niin liikut hitaammin.   
 muutamat pienet fixit ja QoL jutut (muuttujien nimiä muuteltu paremmiksi).   
+
+### 6.3.
+unitya.   
+pieniä fixejä.   
+kolikko systeemi.   
