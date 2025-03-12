@@ -108,3 +108,7 @@ muutamat pienet fixit ja QoL jutut (muuttujien nimiä muuteltu paremmiksi).
 unitya.   
 pieniä fixejä.   
 kolikko systeemi.   
+
+### 12.3.
+viestejä.   
+Unityssä saatu puhtaus counter. Viimeisteltävä ensi kerralla.
