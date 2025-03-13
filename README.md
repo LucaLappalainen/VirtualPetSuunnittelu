@@ -112,3 +112,8 @@ kolikko systeemi.
 ### 12.3.
 viestejä.   
 Unityssä saatu puhtaus counter. Viimeisteltävä ensi kerralla.
+
+### 13.3.
+unityä   
+peseytymis melkein valmis.   
+ensi kerraksi etsi ja korjaa bugeja. selkeitä.   
