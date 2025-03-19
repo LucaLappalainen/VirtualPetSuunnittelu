@@ -117,3 +117,8 @@ Unityssä saatu puhtaus counter. Viimeisteltävä ensi kerralla.
 unityä   
 peseytymis melkein valmis.   
 ensi kerraksi etsi ja korjaa bugeja. selkeitä.   
+
+### 19.3.    
+unityä.   
+bugi fixcejä ja pomppivia palloja.   
+
