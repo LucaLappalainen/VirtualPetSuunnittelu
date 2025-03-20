@@ -122,3 +122,6 @@ ensi kerraksi etsi ja korjaa bugeja. selkeitä.
 unityä.   
 bugi fixcejä ja pomppivia palloja.   
 
+### 20.3. 
+unitya.   
+pallot toimii, pitäisi päättää mitä niiden kanssa tekee.   
