@@ -129,6 +129,13 @@ pallot toimii, pitäisi päättää mitä niiden kanssa tekee.
 ### 27.3.   
 Selveitetty yto kurssit.   
 
-2.4.
+### 2.4.
 
 spritejä kuntoon   
+
+### 3-10.4.
+
+Projektin viimestelyä.   
+Laitettu reactiin.   
+korjattu bugeja.   
+Laitettu verceliin.   
