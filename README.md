@@ -16,6 +16,11 @@ https://www.youtube.com/watch?v=P5PQV0SW0pI
 https://www.youtube.com/watch?v=DX7HyN7oJjE   
 https://www.youtube.com/watch?v=MNUYe0PWNNs   
 
+grafiikat:   
+https://assetstore.unity.com/packages/2d/environments/house-interior-tileset-32x32-lite-307715   
+https://iconduck.com/icons/313561/gold-coin   
+Muut grafiikat joita ei ole listattu ovat olleet myös vapaasti käytettäviä   
+
 
 Kuinka saada unity reactiin ja / verceliin:   
 https://www.youtube.com/watch?v=QZ97CKFi_4c   
