@@ -1,8 +1,8 @@
 # VirtualPetSuunnittelu
 
+Chat gpt:n kanssa käyty keskustelu suunnittelussa:   
+
 I'm making a virtual pet and wonder what to technologies to use. This project is for school and it's purpose is to learn using different libraries and then publish it. My teacher recommended me to use unity, c#, webGL, nextJS and vercel. What other libraries are necessary or is it possible to be done using those? Feel free to ask further questions to give a complete answer. Thank you in advice!
-
-
 
 
 
@@ -74,33 +74,21 @@ The stack your teacher recommended (Unity + C# + WebGL, Next.js, Vercel) is suff
 If you have specific ideas for features (e.g., multiplayer, pet evolution, etc.), let me know, and I can suggest more targeted libraries!
 
 
+## käytetyt teknologiat ja toiminnot:   
 
-VIRTUAL PET
 
 Tekniikat
 
-nextjs
-react
-vercel
-unity
-webgl
-mongodb
+nextjs   
+react   
+vercel   
+unity   
+webgl   
 
 
 toiminnot
 
-Aktiiviset
-
--ruokkiminen
--leikkiminen
--kustomisointi
--peseminen
--siivoaminen
-
-taustalla
--mieliala
--ingame ilmoitukset (mailbox)
--nukkuminen
-
-mahdolliset lisäykset
--energia
+-ruokkiminen   
+-leikkiminen   
+-peseytyminen   
+-kolikkojen kerääminen   
